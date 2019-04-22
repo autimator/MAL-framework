@@ -637,13 +637,11 @@ Max_regr<-function(game_a,matrix)
 #---------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------
 #main 
-path<-"D:/Onedrive/master/thesis/R_analysis/"
+path<-"D:/R_analysis/"
 setwd(path)
 Gambit_path<-"C:\\Program Files (x86)\\Gambit\\" #location of gambit installation
 loc_images <- "images/"  #location within working directory
-session <- "D:/Onedrive/master/thesis/Qt/text_finder_example/test/test.db" #sesion_loc+ db_loc from qt
-#session<-"D:/Onedrive/master/thesis/programming/results_example_tournament_paper/test.db"
-#"D:/Onedrive/master/thesis/Qt/text_finder_example_open_compdata_file_bug/test/test.db"
+session <- "D:/Qt/text_finder_example/test/test.db" #sesion_loc+ db_loc from qt
 
 con <- dbConnect(RSQLite::SQLite(), session)# get a list of all tables
 alltables <- dbListTables(con) # get a list of all tables
