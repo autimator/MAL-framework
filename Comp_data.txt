@@ -1,0 +1,20 @@
+Comparing_Algos
+best_resp,bully,determined,godfather,nash,TFT,
+N_thr, N_r, N_iter, F_x_r, L_x_r;
+1,2,10000,1000,1000
+Rec_first, last
+0,1
+Running_comp
+3
+Egr_expl
+0
+Mark_win
+1
+Par_comp
+1
+Ql_lear, disc, expl, dec_l, dec_expl
+0,0,0,0,0
+Sat_aspir, pers_rate
+6.95261e-310,0
+TFT_smart
+0

@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+CoordinationGame
+NE
+1,0,1,0,17/67,50/67,85/134,49/134,0,1,0,1,
+NE_d
+1,0,1,0,0.253731,0.746269,0.634328,0.365672,0,1,0,1,
+cel_col_alpha
+1,0.473379,0.0927824,1,
+Matrix
+100,100,51,51,0,0,85,85,
+matrix_i
+100,100,51,51,0,0,85,85,
+pareto_opt
+100,100,
+pareto_opt_ind
+0,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,
