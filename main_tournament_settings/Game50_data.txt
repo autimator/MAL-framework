@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+MinimumEffortGame
+NE
+1,0,1,0,0,1,0,1,51/100,49/100,51/100,49/100,
+NE_d
+1,0,1,0,0,1,0,1,0.51,0.49,0.51,0.49,
+cel_col_alpha
+1,0.2499,0.2499,1,
+Matrix
+49,49,0,49,49,0,100,100,
+matrix_i
+49,49,0,49,49,0,100,100,
+pareto_opt
+100,100,
+pareto_opt_ind
+3,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

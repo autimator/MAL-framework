@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,4,0,100
+normalize
+1
+generator
+RandomGraphicalGame
+NE
+1,0,0,0,0,0,1,0,
+NE_d
+1,0,0,0,0,0,1,0,
+cel_col_alpha
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,
+Matrix
+75,71,69,68,9,81,51,74,75,87,69,44,9,96,51,64,75,100,69,32,9,59,51,29,75,14,69,0,9,44,51,64,
+matrix_i
+75,71,69,68,9,81,51,74,75,87,69,44,9,96,51,64,75,100,69,32,9,59,51,29,75,14,69,0,9,44,51,64,
+pareto_opt
+75,100,
+pareto_opt_ind
+8,
+stepsize
+1,4,
+conv_ind
+1,0,
+binplayer
+0,0,

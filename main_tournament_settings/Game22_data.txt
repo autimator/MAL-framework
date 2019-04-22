@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+CournotDuopoly
+NE
+1,0,1,0,
+NE_d
+1,0,1,0,
+cel_col_alpha
+1,0,0,0,
+Matrix
+97,43,5,47,100,0,41,35,
+matrix_i
+97,43,5,47,100,0,41,35,
+pareto_opt
+97,43,5,47,100,0,
+pareto_opt_ind
+0,1,2,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

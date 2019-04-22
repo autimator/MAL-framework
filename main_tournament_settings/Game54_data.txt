@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+NPlayerChicken
+NE
+1,0,1,0,3/100,97/100,3/100,97/100,0,1,0,1,
+NE_d
+1,0,1,0,0.03,0.97,0.03,0.97,0,1,0,1,
+cel_col_alpha
+
+Matrix
+100,100,3,0,0,3,3,3,
+matrix_i
+100,100,3,0,0,3,3,3,
+pareto_opt
+100,100,
+pareto_opt_ind
+0,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

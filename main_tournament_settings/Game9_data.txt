@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+BertrandOligopoly
+NE
+1,0,1,0,47/72,25/72,47/72,25/72,0,1,0,1,
+NE_d
+1,0,1,0,0.652778,0.347222,0.652778,0.347222,0,1,0,1,
+cel_col_alpha
+1,0.226659,0.226659,1,
+Matrix
+50,50,0,6,6,0,100,100,
+matrix_i
+50,50,0,6,6,0,100,100,
+pareto_opt
+100,100,
+pareto_opt_ind
+3,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+GrabTheDollar
+NE
+1,0,0,1,0,1,1,0,5/9,4/9,5/9,4/9,
+NE_d
+1,0,0,1,0,1,1,0,0.555556,0.444444,0.555556,0.444444,
+cel_col_alpha
+0.308642,1,1,0.197531,
+Matrix
+0,0,80,100,100,80,0,0,
+matrix_i
+0,0,80,100,100,80,0,0,
+pareto_opt
+80,100,100,80,
+pareto_opt_ind
+1,2,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+RandomZeroSum
+NE
+1,0,0,1,
+NE_d
+1,0,0,1,
+cel_col_alpha
+0,0,1,0,
+Matrix
+99,1,67,33,20,80,0,100,
+matrix_i
+99,1,67,33,20,80,0,100,
+pareto_opt
+99,1,67,33,20,80,0,100,
+pareto_opt_ind
+0,1,2,3,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

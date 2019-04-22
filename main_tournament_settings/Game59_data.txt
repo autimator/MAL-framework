@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+PolymatrixGame
+NE
+1,0,0,1,0,1,1,0,1/6,5/6,5/6,1/6,
+NE_d
+1,0,0,1,0,1,1,0,0.166667,0.833333,0.833333,0.166667,
+cel_col_alpha
+0.138889,1,1,0.138889,
+Matrix
+0,0,20,20,100,100,0,0,
+matrix_i
+0,0,20,20,100,100,0,0,
+pareto_opt
+100,100,
+pareto_opt_ind
+2,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

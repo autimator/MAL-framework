@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+CovariantGame
+NE
+1,0,0,1,
+NE_d
+1,0,0,1,
+cel_col_alpha
+0,0,1,0,
+Matrix
+100,0,83,71,84,69,31,65,
+matrix_i
+100,0,83,71,84,69,31,65,
+pareto_opt
+100,0,83,71,84,69,
+pareto_opt_ind
+0,1,2,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

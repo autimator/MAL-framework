@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+NPlayerPrisonersDilemma
+NE
+0,1,0,1,
+NE_d
+0,1,0,1,
+cel_col_alpha
+0,0,0,1,
+Matrix
+56,56,100,0,0,100,44,44,
+matrix_i
+56,56,100,0,0,100,44,44,
+pareto_opt
+56,56,100,0,0,100,
+pareto_opt_ind
+0,1,2,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+WarOfAttrition
+NE
+0,1,0,1,
+NE_d
+0,1,0,1,
+cel_col_alpha
+0,0,0,1,
+Matrix
+50,46,100,0,0,93,48,44,
+matrix_i
+50,46,100,0,0,93,48,44,
+pareto_opt
+50,46,100,0,0,93,
+pareto_opt_ind
+0,1,2,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,

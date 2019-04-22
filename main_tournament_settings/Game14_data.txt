@@ -1,0 +1,26 @@
+players, actions, min payoff, max payoff
+2,2,0,100
+normalize
+1
+generator
+BidirectionalLEG
+NE
+1,0,1,0,
+NE_d
+1,0,1,0,
+cel_col_alpha
+1,0,0,0,
+Matrix
+96,96,12,100,100,12,0,0,
+matrix_i
+96,96,12,100,100,12,0,0,
+pareto_opt
+96,96,12,100,100,12,
+pareto_opt_ind
+0,1,2,
+stepsize
+1,2,
+conv_ind
+1,0,
+binplayer
+0,0,
