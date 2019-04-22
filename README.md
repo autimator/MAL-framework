@@ -1,4 +1,5 @@
-#A framework for Multiagent Learning experiments#
+A framework for Multiagent Learning experiments 
+============= 
 The code is written as part of my Msc. thesis  and uploaded to help researchers and other students get started faster. 
 
 The installation process and code are described in the ___framework description___ file. The code is written in QT creator 4.8 (https://www.qt.io/) and is (so far only) tested on a Windows machine, it will require a bit of coding to set it up on Linux or IOS. 
